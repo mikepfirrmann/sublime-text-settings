@@ -1,0 +1,7 @@
+{
+	"cmd": ["sudo -S python setup.py install"],
+	"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+	"working_dir": "$project_path",
+	"shell": "true",
+	"selector": "source.python"
+}

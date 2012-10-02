@@ -1,0 +1,6 @@
+{
+	"name": "rails",
+	"cmd": ["pwd"], //"bundle", "exec", "passenger", "stop", "&&", "rs", "&"],
+	"working_dir": "$project_path/camry",
+	"shell": true
+}

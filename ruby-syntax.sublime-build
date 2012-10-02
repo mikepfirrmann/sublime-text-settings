@@ -1,0 +1,5 @@
+{
+	"name": "Ruby Syntax Checker",
+	"cmd": ["ruby", "-cw", "$file"],
+	"selector": "source.ruby"
+}
